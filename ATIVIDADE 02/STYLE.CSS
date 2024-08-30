@@ -1,0 +1,86 @@
+#caixa {
+    border-radius: 10px;
+    background: url(img/Captura\ de\ tela\ 2024-08-29\ 212150.png) no-repeat center center/cover;
+    font-size: 25px;
+    margin-top: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    text-align: center;
+    height: 400px;
+    border-radius: 5px;
+}
+
+#tudo {
+    display: flex;
+}
+
+#home {
+    background-color: rgba(162, 135, 175, 0.336);
+    text-align: center;
+    text-decoration: none;
+    line-height: 35px;
+    margin-left: 1%;
+    width: 500px; 
+    border-radius: 5px;
+}
+
+#coffe {
+    background-color: rgba(162, 135, 175, 0.336);
+    text-align: center;
+    text-decoration: none;
+    line-height: 35px;
+    margin-left: 1%;
+    width: 500px; 
+    border-radius: 5px;
+}
+
+#galery {
+    background-color: rgba(162, 135, 175, 0.336);
+    text-align: center;
+    text-decoration: none;
+    line-height: 35px;
+    margin-left: 1%;
+    width: 500px; 
+    border-radius: 5px;
+}
+
+#about {
+    background-color: rgba(162, 135, 175, 0.336);
+    text-align: center;
+    text-decoration: none;
+    line-height: 35px;
+    margin-left: 1%;
+    width: 500px; 
+    border-radius: 5px;
+}
+
+#login {
+    background-color: rgba(162, 135, 175, 0.336);
+    text-align: center;
+    text-decoration: none;
+    line-height: 35px;
+    margin-left: 1%;
+    width: 500px; 
+    border-radius: 5px;
+}
+
+
+#textoImg {
+    display: flex;
+    background-color: rgba(162, 135, 175, 0.336);
+/*     text-decoration: none;
+    text-align: left; */
+    /* line-height: 5px; */
+    margin-top: 30%;
+    height:  120px;
+    border-radius: 5px;
+    width: 300px;
+}
+
+#comprar {
+    display: inline-block;
+    margin-top: 110px;
+    padding: 5px;    
+}

@@ -38,3 +38,7 @@ body{
     margin-top: 2%;
     margin-right: 30%;
 }
+
+li {
+    text-align: left;
+}
